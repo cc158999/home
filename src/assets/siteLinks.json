@@ -17,7 +17,7 @@
   {
     "icon": "AppStore",
     "name": "加软件源",
-    "link": "https://vip.yhios.cn/"
+    "link": "https://afzs.yhios.cn/"
   },
   {
     "icon": "Book",
@@ -25,9 +25,9 @@
     "link": "https://dz.yhios.cn/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https//yhios.cn/"
+    "icon": "Qq",
+    "name": "QQ群聊",
+    "link": "https://api.khkj6.com/qun/?qun=901014320/"
   },
   {
     "icon": "LaptopCode",
