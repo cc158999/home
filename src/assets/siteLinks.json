@@ -1,6 +1,6 @@
 [
   {
-    "icon": "Blog",
+    "icon": "Qq",
     "name": "QQ频道",
     "link": "https://pd.qq.com/s/5d0s77w9l/"
   },
@@ -10,12 +10,12 @@
     "link": "https://pan.yhios.cn/"
   },
   {
-    "icon": "CompactDisc",
+    "icon": "Weixin",
     "name": "联系我们",
     "link": "https://api.khkj6.com/wx/?i=https://x.imgs.ovh/x/2023/09/11/64fedc1e60a11.jpg"
   },
   {
-    "icon": "Compass",
+    "icon": "AppStore",
     "name": "加软件源",
     "link": "https://vip.yhios.cn/"
   },
@@ -27,11 +27,11 @@
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "link": ""
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": ""
   }
 ]
